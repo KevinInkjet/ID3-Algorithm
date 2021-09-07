@@ -1,0 +1,7 @@
+color,forma,tamano,answer
+rojo,cuadrado,grande,yes
+azul,cuadrado,grande,yes
+rojo,redondo,pequeno,no
+verde,cuadrado,pequeno,no
+rojo,redondo,grande,yes
+verde,cuadrado,grande,no

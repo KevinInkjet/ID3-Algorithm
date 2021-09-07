@@ -1,0 +1,15 @@
+cielo,temperatura,humedad,viento,answer
+sol,alta,alta,debil,no
+sol,alta,alta,fuerte,no
+nubes,alta,alta,debil,yes
+lluvia,suave,alta,debil,yes
+lluvia,baja,normal,debil,yes
+lluvia,baja,normal,fuerte,no
+nubes,baja,normal,fuerte,yes
+sol,suave,alta,debil,no
+sol,baja,normal,debil,yes
+lluvia,suave,normal,debil,yes
+sol,suave,normal,fuerte,yes
+nubes,suave,alta,fuerte,yes
+nubes,alta,normal,debil,yes
+lluvia,suave,alta,fuerte,no
